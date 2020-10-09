@@ -1,0 +1,4 @@
+﻿  Consol1.cpp
+C:\Users\Lukas\source\repos\TestRepos\Kurrr\Consol1\Consol1\Consol1.cpp(10,11): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Lukas\source\repos\TestRepos\Kurrr\Consol1\Consol1\Consol1.cpp(34,11): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  Consol1.vcxproj -> C:\Users\Lukas\source\repos\TestRepos\Kurrr\Consol1\Debug\Consol1.exe
