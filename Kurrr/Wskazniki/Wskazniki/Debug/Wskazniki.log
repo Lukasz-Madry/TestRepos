@@ -1,0 +1,3 @@
+﻿  Wskazniki.cpp
+C:\Users\Lukas\source\repos\TestRepos\Kurrr\Wskazniki\Wskazniki\Wskazniki.cpp(31,17): warning C4154: usunięcie wyrażenia tablicowego; dostarczono konwersji do wskaźnika
+  Wskazniki.vcxproj -> C:\Users\Lukas\source\repos\TestRepos\Kurrr\Wskazniki\Debug\Wskazniki.exe
