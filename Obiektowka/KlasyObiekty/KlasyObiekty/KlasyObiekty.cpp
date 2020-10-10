@@ -2,10 +2,48 @@
 //
 
 #include <iostream>
+#include <string>
+
+using namespace std;
+
+class Zwierzeta
+{   public:
+    
+    //atrybuty
+    string gatunek;
+    string imie;
+    int wiek;
+   
+    //metody
+    void dodaj_zwierze()
+    {
+        cout << "DODAWANIE NOWEGO ZWIERZA: " << endl;
+        cout << "Gatunek"<<endl;
+        cin >> gatunek;
+        cout << "Imie "<<endl;
+        cin >> imie;
+        cout << "Wiek: "<<endl;
+        cin >> wiek;
+    }
+    void daj_glos()
+    {
+        if (gatunek == "kot") cout << imie << " lat" << wiek << ": Meow"<<endl;
+        else if (gatunek == "koza") cout << imie << " lat" << wiek << ": Beeee"<<endl;
+        else if (gatunek == "krowa") cout << imie << " lat" << wiek << ": Mooo"<<endl;
+        else cout << "czy jo wim co to?"<<endl;
+    }
+
+};
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Zwierzeta z1;
+    z1.dodaj_zwierze();
+    z1.daj_glos();
+
+
+    Zwierzeta z2;
+
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
