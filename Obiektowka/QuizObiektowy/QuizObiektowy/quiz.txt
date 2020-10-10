@@ -1,0 +1,30 @@
+Typ zmiennych o nazwie float przechowuje:
+a.liczby calkowite
+b.napisy
+c.liczby zmiennoprzecinkowe 
+d.pojedyncze znaki
+c
+Wstrzymanie wykonania programu na czas 2 sekund uzyskasz instrukcja: 
+a.Wait
+b.Stop
+c.Delay
+d.Sleep
+d
+Ktora deklaracja jest poprawna:
+a.int x;
+b.integer x;
+c.x:integer;
+d.x=integer;
+a
+Z jakiego przedzialu bedzie liczba: rand()%10+2
+a.0-9
+b.2-9
+c.2-11
+d.0-11
+c
+Ile razy wykonana sie petra: for(int i=4; i>=-2;i--)
+a.ani razu
+b.nieskonczonosc
+c.6
+d.7
+d
