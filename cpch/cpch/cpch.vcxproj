@@ -150,6 +150,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Info.h" />
+    <ClInclude Include="Bishop.h" />
+    <ClInclude Include="Knight.h" />
+    <ClInclude Include="King.h" />
+    <ClInclude Include="WinCondition.h" />
+    <ClInclude Include="Queen.h" />
+    <ClInclude Include="Rook.h" />
     <ClInclude Include="Pawn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
